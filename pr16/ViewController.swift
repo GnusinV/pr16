@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         print("feature 1")
+        print("feature 2")
     }
 
 
